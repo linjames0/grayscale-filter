@@ -1,4 +1,6 @@
 # Grayscale Filter for Profile Pictures
+Ground up implementation of a grainy grayscale filter.
+
 Using kernel convolutions and image processing, you can apply a grainy grayscale filter to any photo.
 
 ## Examples
